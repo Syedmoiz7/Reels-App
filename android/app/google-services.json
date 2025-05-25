@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941534236476",
+    "project_id": "reels-app-authentication",
+    "storage_bucket": "reels-app-authentication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941534236476:android:b613e7c1ed4e697f5bd839",
+        "android_client_info": {
+          "package_name": "com.reels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941534236476-al9bc0biqj83vegccjuimipci93j0627.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_oFMPFs-QpVfeyOSKkVY4pubyVAYnrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941534236476-al9bc0biqj83vegccjuimipci93j0627.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
