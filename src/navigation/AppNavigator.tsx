@@ -4,7 +4,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { useSelector } from 'react-redux';
 import { RootState } from '../store';
 import ReelScreen from '../screens/ReelsScreen';
-import RegisterScreen from '../screens/RegisterScree';
+import RegisterScreen from '../screens/RegisterScreen';
 import LoginScreen from '../screens/LoginScreen';
 
 export type AuthStackParamList = {
